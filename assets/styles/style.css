@@ -3,8 +3,6 @@ body{
 	padding:0px;
 	overflow:hidden;
 	background: #196a73; /* Old browsers */
-	background-image:url();
-        background: #000;
 	height:100%;
 }
 #level{
